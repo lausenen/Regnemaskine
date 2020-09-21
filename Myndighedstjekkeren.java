@@ -7,6 +7,7 @@ public class Myndighedstjekkeren {
     }
     //suck my fat chubby nuts
     else {
+        //nutty
         System.out.println("Du er ikke myndig");
     }
 
