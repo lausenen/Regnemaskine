@@ -10,9 +10,11 @@ public class Myndighedstjekkeren {
         //nutty
         System.out.println("Du er ikke myndig");
     }
-//Sker der brorbamsen???
+
     }
 }
 
 // Heloo
 //igen
+//din far
+//ayyyy
