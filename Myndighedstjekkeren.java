@@ -2,7 +2,7 @@ public class Myndighedstjekkeren {
     public static void main(String[] args) {
         java.util.Scanner brugerinput = new java.util.Scanner(System.in);
         int alder = brugerinput.nextInt();
-    if (alder >= 18) {
+    if (alder >= 21) {
         System.out.println("Du er myndig");
     }
     //Tissemanddd
@@ -11,9 +11,11 @@ public class Myndighedstjekkeren {
         //nutty
         System.out.println("Du er ikke myndig");
     }
-//Sker der brorbamsen???
+
     }
 }
 
 // Heloo
 //igen
+//din far
+//ayyyy
