@@ -5,6 +5,7 @@ public class Myndighedstjekkeren {
     if (alder >= 21) {
         System.out.println("Du er myndig");
     }
+    //Tissemanddd
     //suck my fat chubby nuts
     else {
         //nutty
